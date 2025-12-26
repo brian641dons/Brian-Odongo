@@ -1,0 +1,8 @@
+{
+  "name": "Soulsprings Wellness Spa",
+  "description": "A high-end, luxurious digital sanctuary for Nairobi's premier women-owned wellness spa, featuring calming aesthetics and an AI-powered wellness consultant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
